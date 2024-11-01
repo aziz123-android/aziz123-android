@@ -34,8 +34,14 @@
 ###
 
 <div align="center" dir="auto">
-  <a href="https://www.instagram.com/_abdulaziz._.07" rel="nofollow" style="color: rgb(206, 167, 212); text-decoration: underline;">
+  <a href="https://www.instagram.com/_abdulaziz._.07?igsh=MWVocmQ2OGtjNmlpZw==" rel="nofollow" style="color: rgb(206, 167, 212); text-decoration: underline;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" style="max-width: 100%;">
   </a>
   <a href="aadiazp7@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" style="max-
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/abdul-aziz-8bba2a2a8/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" style="max-width: 100%;">
+  </a>
+
+</div>
